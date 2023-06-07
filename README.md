@@ -1,7 +1,6 @@
 <div align="center"><img src="https://github.com/MTC0D3/SiAP/assets/113486720/27e440fd-4f41-4655-bcd3-5d21a727f6f8" height=250 width=250 </img></div>
 
 # <div align="center">SiAP (Sistem Absensi Pegawai)</div>
-Membuat Slicing ui dan navigasi yang dibangun dengan menggunakan Flutter
 
 <img style = "max-width= 100%;" alt="image" src="https://user-images.githubusercontent.com/113486720/231608176-5677cdec-2f70-4aae-b17b-6ba8b57b871b.png">
 
