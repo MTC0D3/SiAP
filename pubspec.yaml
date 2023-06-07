@@ -1,0 +1,40 @@
+name: presensi
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: ">=2.19.3 <3.0.0"
+
+dependencies:
+  cloud_firestore: 4.4.4
+  convex_bottom_bar: 3.2.0
+  cupertino_icons: ^1.0.2
+  firebase_auth: 4.2.10
+  firebase_core: 2.7.1
+  firebase_storage: 11.0.15
+  flutter:
+    sdk: flutter
+  geocoding: 2.1.0
+  geolocator: 8.2.0
+  get: 4.6.5
+  google_fonts: ^4.0.4
+  image_picker: 0.8.7+4
+  intl: 0.17.0
+  syncfusion_flutter_datepicker: 19.4.56
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/icon.png"
+
+dev_dependencies:
+  flutter_launcher_icons: "^0.13.1"
+  flutter_lints: 2.0.1
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/logos/
+
+  uses-material-design: true
