@@ -16,19 +16,19 @@ Aplikasi SIAP (Sistem Absensi Pegawai) adalah aplikasi yang digunakan untuk menc
   
   + Jalankan `main.dart` kemudian lihat pada emulator atau real device.
 
-## Screenshot 
+<!-- ## Screenshot 
 + **Splash Screen**
 
 <!-- ![Screenshot (95)](https://user-images.githubusercontent.com/113486720/231599687-c50602be-33f9-47ca-96f3-e8e006218883.png) -->
 
-+ **Welcome Screen**
+<!-- + **Welcome Screen** -->
 
 <!-- ![image](https://user-images.githubusercontent.com/113486720/231603820-15144513-da73-4aaf-9f41-fde83610d1f4.png) -->
 
-+ **Home Screen**
+<!-- + **Home Screen** -->
 
 <!-- ![image](https://user-images.githubusercontent.com/113486720/231604049-0fc78e4a-fea2-4de7-b1b9-c171be61c5ab.png) -->
 
-+ **Profile Screen**
+<!-- + **Profile Screen** -->
 
-![image](https://user-images.githubusercontent.com/113486720/231604164-bee27373-9958-4f0b-b0cf-053fce59bff9.png)
+<!-- ![image](https://user-images.githubusercontent.com/113486720/231604164-bee27373-9958-4f0b-b0cf-053fce59bff9.png) --> 
