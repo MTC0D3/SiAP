@@ -1,5 +1,4 @@
-<div align="center"><img src="![logo](https://github.com/MTC0D3/SiAP/assets/113486720/27e440fd-4f41-4655-bcd3-5d21a727f6f8)
-" height=250 width=250 </img></div>
+<div align="center"><img src="https://github.com/MTC0D3/SiAP/assets/113486720/27e440fd-4f41-4655-bcd3-5d21a727f6f8" height=250 width=250 </img></div>
 
 # <div align="center">SiAP (Sistem Absensi Pegawai)</div>
 Membuat Slicing ui dan navigasi yang dibangun dengan menggunakan Flutter
