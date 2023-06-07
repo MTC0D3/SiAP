@@ -6,7 +6,7 @@ Membuat Slicing ui dan navigasi yang dibangun dengan menggunakan Flutter
 <img style = "max-width= 100%;" alt="image" src="https://user-images.githubusercontent.com/113486720/231608176-5677cdec-2f70-4aae-b17b-6ba8b57b871b.png">
 
 ## About
-Aplikasi ini dibangun untuk memenuhi tugas mata kuliah mobile programming. Dalam aplikasi ini hanya membuat slicing ui dan navigasi saja.
+Aplikasi SIAP (Sistem Absensi Pegawai) adalah aplikasi yang digunakan untuk mencatat kehadiran dan ketidakhadiran pegawai dalam sebuah perusahaan atau organisasi. Tujuan dari aplikasi ini adalah untuk memberikan kemudahan kepada pegawai dalam melakukan absensi serta untuk mengelola absensi pegawai secara efisien dan akurat.
 
 ## Konfigurasi
 * **Instalasi & Konfigurasi**
