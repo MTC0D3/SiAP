@@ -2,7 +2,7 @@
 
 # <div align="center">SiAP (Sistem Absensi Pegawai)</div>
 
-<!-- <img style = "max-width= 100%;" alt="image" src="https://user-images.githubusercontent.com/113486720/231608176-5677cdec-2f70-4aae-b17b-6ba8b57b871b.png"> -->
+<img style = "max-width= 100%;" alt="image" src="https://github.com/MTC0D3/SiAP/assets/113486720/3b2b1da8-9ba5-46ee-bda2-0c9c1c1539f5">
 
 ## About
 Aplikasi SiAP (Sistem Absensi Pegawai) adalah aplikasi yang digunakan untuk mencatat kehadiran dan ketidakhadiran pegawai dalam sebuah perusahaan atau organisasi. Tujuan dari aplikasi ini adalah untuk memberikan kemudahan kepada pegawai dalam melakukan absensi serta untuk mengelola absensi pegawai secara efisien dan akurat.
